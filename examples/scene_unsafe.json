@@ -1,0 +1,16 @@
+{
+  "z": {
+    "object_distance_m": 18.0,
+    "stopping_distance_m": 20.0,
+    "collision_risk": true,
+    "sensor_mode": "camera+radar"
+  },
+  "y": {
+    "action": "maintain",
+    "trajectory_id": "traj_unsafe_01"
+  },
+  "Pi": {
+    "require_no_collision": true,
+    "min_stopping_margin_m": 8.0
+  }
+}

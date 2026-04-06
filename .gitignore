@@ -1,0 +1,27 @@
+# Python cache
+__pycache__/
+
+# Environments
+venv/
+.env/
+.venv/
+env/
+
+# Testing
+.pytest_cache/
+.mypy_cache/
+
+# Logging
+*.log
+
+# OS
+.DS_Store
+
+# IDE
+.vscode/
+
+# Build
+build/
+
+# Zip
+*.zip
