@@ -5,6 +5,7 @@ Paper Title: Incompleteness of AI Safety Verification via Kolmogorov Complexity
 
 Paper Link: https://arxiv.org/abs/2604.04876
 
+The code uses standard compression schemes as a practical proxy for Kolmogorov complexity, which is uncomputable in general.
 This repository provides a minimal, executable demonstration of the distinction between:
 
 - **Truth**: whether a policy-compliance predicate $(P(x))$ actually holds, and  
