@@ -1,5 +1,10 @@
 # AI Policy Verification: Limits and Proof-Carrying Demo
 
+## 📄 Paper
+Paper Title: Incompleteness of AI Safety Verification via Kolmogorov Complexity
+
+Paper Link: https://arxiv.org/abs/2604.04876
+
 This repository provides a minimal, executable demonstration of the distinction between:
 
 - **Truth**: whether a policy-compliance predicate $(P(x))$ actually holds, and  
